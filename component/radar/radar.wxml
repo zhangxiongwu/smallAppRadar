@@ -1,0 +1,5 @@
+<template name="radar">
+    <view class="radar">
+        <canvas class="canvas" canvas-id="radarCanvas" />
+    </view>
+</template>

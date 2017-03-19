@@ -1,0 +1,10 @@
+.radar {
+    text-align: center;
+}
+
+.radar canvas {
+    width: 750rpx;
+    height: 750rpx;
+    background-color: #6fb9de;
+}
+

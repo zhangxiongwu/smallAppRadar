@@ -1,0 +1,9 @@
+<!-- 引入雷达图 -->
+<import src="../../component/radar/radar.wxml"/>
+<!--index.wxml-->
+<view class="container">
+
+<!-- 调用雷达图 -->
+<template is="radar"  data="{{radarData: radarData}}"/>
+
+</view>
